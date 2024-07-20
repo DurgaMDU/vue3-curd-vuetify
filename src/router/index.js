@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Dashboard from '../components/Dashboard.vue';
-import Dashboards from '../components/Dashboards.vue';
 import Add from '../components/Add.vue';
 import Edit from '../components/Edit.vue'
 
@@ -17,11 +16,6 @@ const routes = [
         path: '/',
         name: 'Dashboard',
         component: Dashboard
-    },   
-    {
-        path: '/d2',
-        name: 'Dashboards',
-        component: Dashboards.vue
     },   
     {
         path: '/add',

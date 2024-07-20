@@ -1,4 +1,5 @@
-# vue3-curd-vdatatable  is myproject-assessment
+# vue3-curd-vuetify
+Vue3 Simple project with Basic CURD operations, using v-data-table-server with API request using PHP
 
 ## Project setup
 ```
